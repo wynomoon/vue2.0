@@ -2,9 +2,7 @@
   <div>
     <el-button @click="remove">退出登录</el-button>
     <el-button @click="toLogin">去登录</el-button>
-    <div v-html="s">
-      1
-    </div>
+
     <router-link to="/about">去about</router-link>
     <el-menu
       class="el-menu-vertical-demo"
