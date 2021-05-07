@@ -1,7 +1,6 @@
 <template>
   <div>
     <div>mian</div>
-    <div>dev分支</div>
     <div>加代码</div>
     <el-button @click="remove">退出登录</el-button>
     <el-button @click="toLogin">去登录</el-button>
