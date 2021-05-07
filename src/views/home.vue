@@ -2,6 +2,7 @@
   <div>
     <div>dev分支</div>
     <div>加代码</div>
+    <div>999</div>
     <el-button @click="remove">退出登录</el-button>
     <el-button @click="toLogin">去登录</el-button>
     <router-link to="/about">去about</router-link>
